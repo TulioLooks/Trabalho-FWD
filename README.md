@@ -23,4 +23,10 @@ Muryel Afonso,
 Kaique Eduardo &
 Luiz Meireles
 
+## Desenvolvimento
+
+Demos sequência no projeto, encontrando algumas dificuldades durante o caminho. Não está funcionando o upload de arquivos do Git, sendo assim não conseguimos disponibilizar o código
+
+
+
 PS.: site ainda em desenvolvimento, logo teram novas atualizações
